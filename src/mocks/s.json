@@ -1,0 +1,72 @@
+[
+  {
+    "productName": "Product 1",
+    "productDetail": "High-quality product for daily use.",
+    "productStock": 15,
+    "productPrice": 120.5,
+    "productImage": "https://cdn.dsmcdn.com/ty1018/product/media/images/prod/SPM/PIM/20231019/13/899e8cb7-16a0-3617-bae0-555eacd2e713/1_org_zoom.jpg"
+  },
+  {
+    "productName": "Product 2",
+    "productDetail": "Durable and stylish product for all seasons.",
+    "productStock": 30,
+    "productPrice": 85.0,
+    "productImage": "https://cdn.dsmcdn.com/ty1018/product/media/images/prod/SPM/PIM/20231019/13/899e8cb7-16a0-3617-bae0-555eacd2e713/1_org_zoom.jpg"
+  },
+  {
+    "productName": "Product 3",
+    "productDetail": "Compact and efficient design for small spaces.",
+    "productStock": 20,
+    "productPrice": 65.75,
+    "productImage": "https://cdn.dsmcdn.com/ty1018/product/media/images/prod/SPM/PIM/20231019/13/899e8cb7-16a0-3617-bae0-555eacd2e713/1_org_zoom.jpg"
+  },
+  {
+    "productName": "Product 4",
+    "productDetail": "Affordable product with premium features.",
+    "productStock": 12,
+    "productPrice": 95.5,
+    "productImage": "https://cdn.dsmcdn.com/ty1018/product/media/images/prod/SPM/PIM/20231019/13/899e8cb7-16a0-3617-bae0-555eacd2e713/1_org_zoom.jpg"
+  },
+  {
+    "productName": "Product 5",
+    "productDetail": "Perfect choice for professional use.",
+    "productStock": 18,
+    "productPrice": 150.0,
+    "productImage": "https://cdn.dsmcdn.com/ty1018/product/media/images/prod/SPM/PIM/20231019/13/899e8cb7-16a0-3617-bae0-555eacd2e713/1_org_zoom.jpg"
+  },
+  {
+    "productName": "Product 6",
+    "productDetail": "Eco-friendly and sustainable materials.",
+    "productStock": 25,
+    "productPrice": 70.3,
+    "productImage": "https://cdn.dsmcdn.com/ty1018/product/media/images/prod/SPM/PIM/20231019/13/899e8cb7-16a0-3617-bae0-555eacd2e713/1_org_zoom.jpg"
+  },
+  {
+    "productName": "Product 7",
+    "productDetail": "Lightweight and portable for easy carrying.",
+    "productStock": 10,
+    "productPrice": 55.0,
+    "productImage": "https://cdn.dsmcdn.com/ty1018/product/media/images/prod/SPM/PIM/20231019/13/899e8cb7-16a0-3617-bae0-555eacd2e713/1_org_zoom.jpg"
+  },
+  {
+    "productName": "Product 8",
+    "productDetail": "Premium quality for luxury experiences.",
+    "productStock": 22,
+    "productPrice": 200.0,
+    "productImage": "https://cdn.dsmcdn.com/ty1018/product/media/images/prod/SPM/PIM/20231019/13/899e8cb7-16a0-3617-bae0-555eacd2e713/1_org_zoom.jpg"
+  },
+  {
+    "productName": "Product 9",
+    "productDetail": "User-friendly design for easy setup.",
+    "productStock": 14,
+    "productPrice": 89.9,
+    "productImage": "https://cdn.dsmcdn.com/ty1018/product/media/images/prod/SPM/PIM/20231019/13/899e8cb7-16a0-3617-bae0-555eacd2e713/1_org_zoom.jpg"
+  },
+  {
+    "productName": "Product 10",
+    "productDetail": "Best value for your money.",
+    "productStock": 8,
+    "productPrice": 110.0,
+    "productImage": "https://cdn.dsmcdn.com/ty1018/product/media/images/prod/SPM/PIM/20231019/13/899e8cb7-16a0-3617-bae0-555eacd2e713/1_org_zoom.jpg"
+  }
+]

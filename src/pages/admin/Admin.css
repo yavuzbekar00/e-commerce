@@ -1,0 +1,43 @@
+.admin-container {
+    display: flex;
+    height: 100vh; 
+    overflow: hidden; 
+  }
+  
+  .admin-left {
+    width: 250px; 
+    background-color: #a9a9a9;
+    position: fixed; 
+    top: 0;
+    bottom: 0;
+    overflow-y: auto;
+  }
+  
+  .admin-right {
+    margin-left: 250px;
+    width: calc(100% - 250px);
+    overflow-y: auto; 
+    box-sizing: border-box; 
+  }
+  
+.admin-sidebar{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 10px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.admin-sidebar:hover{
+    background-color: #e5e5e5;
+    cursor: pointer;
+    transition: all .4s;
+}
+.admin-sidebarTitle{
+    font-size: 20px;
+}
+.admin-sidebarIcon{
+    font-size: 20px;
+}
